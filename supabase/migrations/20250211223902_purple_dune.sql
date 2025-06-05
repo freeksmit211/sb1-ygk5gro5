@@ -1,0 +1,2 @@
+-- Remove the data clearing migration
+-- This file intentionally left empty to preserve existing data
